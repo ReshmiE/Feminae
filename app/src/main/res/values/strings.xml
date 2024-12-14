@@ -1,0 +1,274 @@
+<resources>
+    <string name="app_name">Feminae_Project</string>
+    <string name="welcome">Welcome Back! Please login to your account</string>
+    <string name="phoneno">Phone No</string>
+    <string name="password">Password</string>
+    <string name="dha">Don\'t have account yet?</string>
+    <string name="signin">Sign in</string>
+    <string name="signup">Sign up</string>
+    <string name="fp">Forgot Password?</string>
+    <string name="Welcome">Welcome</string>
+    <string name="Name">Name</string>
+    <string name="Email">Email</string>
+    <string name="dob">DOB</string>
+    <string name="ar">Already registered?</string>
+    <string name="lh">Login here</string>
+
+
+    <string name="reset">Reset</string>
+    <string name="gb">Go Back</string>
+
+
+    <string name="fem">Feminae</string>
+    <string name="PT">Period Tracker</string>
+    <string name="PGT">Pregnancy Tracker</string>
+    <string name="IC">Infant Care</string>
+    <string name="BF">Beauty and Fitness</string>
+    <string name="logout">Logout</string>
+
+    <string name="mp">My Profile</string>
+    <string name="cp">Change Password</string>
+    <string name="save">Save</string>
+    <string name="edit">edit</string>
+
+    <string name="q1">When did you have your last period start?</string>
+    <string name="q2">On average how long is your period?</string>
+    <string name="q3">On average how long is your cycle?</string>
+    <string name="mc">My Cycle</string>
+    <string name="pd">Period Day</string>
+    <string name="fert">Fertility</string>
+    <string name="pms">PMS</string>
+    <string name="track">Tracker</string>
+    <string name="diet">Diet</string>
+    <string name="idk">I dont remember </string>
+    <string name="day">Days</string>
+
+    <string name="hello">Hello!</string>
+    <string name="ques">Select your gestational age</string>
+    <string name="weeks">Weeks</string>
+    <string name="baby">Baby</string>
+    <string name="mom">Mom</string>
+    <string name="food">Food</string>
+    <string name="advice">Advice</string>
+
+    <string name="mga">My gestational age</string>
+    <string name="dd">Due date</string>
+    <string name="ms">My baby is the size of</string>
+
+    <string name="mb">Moms body</string>
+    <string name="con">continue</string>
+
+    <string name="due">Estimated due month </string>
+
+    <string name="next">NEXT</string>
+    <string name="month1_info">month 1</string>
+    <string name="month2_info">month2</string>
+    <string name="tuab">Tell us a little about your baby</string>
+    <string name="add">Add Baby info</string>
+    <string name="bname">What is your baby\'s name?</string>
+    <string name="bsex">What is your baby\'s sex?</string>
+    <string name="bdob">What is your baby\'s birthday?</string>
+    <string name="done">Done</string>
+
+    <string name="bn">Baby\'s name</string>
+    <string name="ba">Baby\'s age</string>
+    <string name="feed">Feeding</string>
+    <string name="sleep">Sleeping</string>
+    <string name="vacc">Vaccination</string>
+    <string name="care">Care</string>
+    <string name="tl">Today\'s logs</string>
+
+    <string name="milk">Milk</string>
+    <string name="solids">Solids</string>
+    <string name="dof">Date of Feeding</string>
+    <string name="bt">Begin Time</string>
+    <string name="et">End Time</string>
+    <string name="tof">Time of Feeding</string>
+    <string name="esg">Enter the solid given</string>
+    <string name="addreac">Add a reaction</string>
+
+    <string name="date">Date</string>
+
+    <string name="av">Age Vaccine</string>
+
+    <string name="birth"> Birth</string>
+    <string name="Sixw">6 weeks</string>
+    <string name="tenw">10 weeks</string>
+    <string name="fourtw">14 weeks</string>
+    <string name="sixm">6 months</string>
+    <string name="ninem">9 months</string>
+    <string name="ntm">9 to 12 months</string>
+    <string name="twem">12 months</string>
+    <string name="bcg">BCG</string>
+    <string name="hepb">Hep B</string>
+    <string name="opv">OPV</string>
+    <string name="ipv">IPV</string>
+    <string name="hib">HIB</string>
+    <string name="rotav">Rota V</string>
+    <string name="pcv">PCV</string>
+    <string name="mmr">MMR</string>
+    <string name="typhoid">Typhoid</string>
+    <string name="hepa">Hep A</string>
+    <string name="dtp">DTP</string>
+    <string name="up">Update</string>
+
+    <string name="hi">What seems impossible today will become your warm-up tomorrow!!!</string>
+    <string name="lets">Let\'s Start</string>
+
+    <string name="bea">Beauty</string>
+
+    <string name="fit">Fitness</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="sc1">To maintain healthy skin, dermatologists recommend the following tips:</string>
+    <string name="sc2">1. Wear sunscreen daily: Sunscreen is one of the single most important things you can do for your skin. When applied correctly, sunscreen protects your skin against the sun’s harmful ultraviolet (UV) rays, which cause sunburn, skin cancer, and premature skin aging, like wrinkles and age spots. For the best protection, apply a broad-spectrum, water-resistant sunscreen with an SPF of 30 or higher to all skin not covered by clothing, and reapply every two hours or after swimming or sweating. To save time in your skin care routine, you can consider using a moisturizer that also contains sunscreen. However, while cosmetics that contain sunscreen are convenient, remember to reapply them in order to achieve the best sun protection. Keep in mind that since no sunscreen can block 100% of the sun’s UV rays, it’s also important to seek shade and wear sun-protective clothing when outdoors, including a ligthweight long-sleeved shirt, pants, a wide-brimmed hat and sunglasses with UV protection, when possible. For more effective sun protection select clothing with an ultraviolet protection factor (UPF) label.</string>
+    <string name="sc3">2. Stay out of tanning beds: Just like the sun, tanning beds emit harmful UV radiation that causes skin cancer. In fact, even one indoor tanning session can increase your risk of developing melanoma by 20%, squamous cell carcinoma by 67% and basal cell carcinoma by 29%. If you want that golden glow, achieve it with self-tanning products instead. When applied correctly, self-tanners look natural and won’t give you orange skin, streaks or splotches.</string>
+    <string name="sc4">3. Simplify your skin care routine: Less is more when it comes to skin care. Using too many products, especially multiple anti-aging products, can irritate your skin. Instead, focus on the basics, such as a gentle cleanser, sunscreen, and moisturizer. Establish morning and nighttime skin care routines that work well for your skin, and stick with them.</string>
+    <string name="sc5">4. Choose skin care products formulated for your skin type: Understanding your skin type will help you learn how to take care of your skin and select skin care products that are right for you. As mentioned above, here\'s how to identify and understand your skin type:</string>
+    <string name="sc6">a. Sensitive skin: May sting or burn after product use</string>
+    <string name="sc7">b. Normal skin: Clear and not sensitive</string>
+    <string name="sc8">c. Dry skin: Flaky, itchy or rough</string>
+    <string name="sc9">d. Combination skin: Dry in some areas and oily in others</string>
+    <string name="sc10">e.Oily: Shiny and greasy</string>
+    <string name="sc11">5. Treat your lips: Since skin cancer can form on the lips, apply a lip balm or lipstick that contains sunscreen with an SPF of 30 or higher before going outdoors. If your lips feel chapped or dry, apply petroleum jelly for added moisture.</string>
+    <string name="sc12">6. Keep your hands off your face: Whenever you touch your face, you transfer dirt, germs, and oil from your hands to your face. Do your best to leave your skin alone throughout the day. Avoid picking, popping or squeezing pimples, as this can cause scarring.</string>
+    <string name="sc13">7. Check your skin regularly: Skin cancer is the most common cancer in the U.S., affecting one in five Americans in their lifetime. Further, nearly 20 Americans die from melanoma, the deadliest form of skin cancer, every day. However, when detected early, skin cancer—including melanoma—is highly treatable. In fact, the five-year survival rate for people whose melanoma is detected and treated before it spreads to the lymph nodes is 98%. It is important to check your skin regularly for new spots, spots that are different from other spots on your body, or moles that itch, bleed or change color, as these are often early warning signs of skin cancer. If you notice any suspicious spots, make an appointment to see a board-certified dermatologist.</string>
+    <string name="sc14">The skin is your body\’s largest organ, so it\’s important to take good care of it. If you have questions about your skin type or how to take care of your skin, talk to a dermatologist.</string>
+
+
+    <string name="h1">How you wash your hair and the products you use can go a long way toward maintaining smooth, shiny hair. Follow these simple tips from dermatologists to maintain healthy hair.</string>
+    <string name="h2">1. Wash oily hair more frequently: How often you wash your hair should be based on how much oil your scalp produces.</string>
+    <string name="h3">a. If your scalp is oily, you may need to wash it as often as once a day.</string>
+    <string name="h4">b. If you have chemically treated hair, your hair may be drier, so you may want to wash it less frequently.</string>
+    <string name="h5">c. As you get older, your scalp makes less oil, so you may not need to shampoo as often. But if you see flakes in your hair, you may not be shampooing enough. This can lead to dandruff and other scalp diseases.</string>
+    <string name="h6">2. Concentrate shampoo on the scalp: When washing your hair, concentrate on cleaning primarily the scalp, rather than washing the entire length of hair. Washing only your hair can create flyaway hair that is dull and coarse.</string>
+    <string name="h7">3. Use conditioner after every shampoo: Unless you use a “2-in-1” shampoo, which cleans and conditions hair. Using a conditioner can significantly improve the look of damaged or weathered hair by increasing shine, decreasing static electricity, improving strength and offering some protection from harmful UV rays.</string>
+    <string name="h8">4. Concentrate conditioner on the tips of the hair: Because conditioners can make fine hair look limp, they only should be used on the tips of the hair and not on the scalp or length of the hair.</string>
+    <string name="h9">5. Choose a shampoo and conditioner formulated specifically for your hair type. For example, if you color your hair, use a shampoo designed for color-treated hair. If your hair is damaged or chemically treated, consider a “2-in-1” shampoo. Regardless of cost, many shampoo and conditioner brands provide the same benefits.</string>
+    <string name="h10">6. Protect hair when swimming. Protect your hair from the damaging effects of chlorine by wetting and conditioning your hair before swimming. Wear a tight-fitting swim cap and use a specially formulated swimmers shampoo and deep conditioner after swimming to replace lost moisture.</string>
+    <string name="h11">If you have questions about caring for your hair, you should make an appointment to see a board-certified dermatologist.</string>
+
+
+    <string name="n1">Top 10 Natural Beauty Tips</string>
+    <string name="n2">1. Natural Salicylic Acid Exfoliation</string>
+    <string name="n3">Salicylic acid is one of the best skin exfoliators as it effectively treats acne, removes dead skin cells and unclogs pores. This amazing exfoliating agent is also present in grapefruit. Grapefruits are also rich in vitamin A and C and are easily available in the market. Creating a scrub with the membrane of this fruit will help get rid of acne on your face and even breakouts that occur on your back and chest.</string>
+    <string name="n4">Tip: Cut up a grapefruit and keep the pith and membrane aside. Add the membrane and pith to a blender along with half cup sugar and three tablespoons almond oil. Blend for 45 seconds and then transfer the mix to a jar. Use it twice a week.</string>
+    <string name="n5">2. Baking Soda Cleanse</string>
+    <string name="n6">Baking soda is another kitchen ingredient that makes for a stellar cleanser. Half a teaspoon of it can be added to your face wash to make for a more thorough cleanse and avoid any bacteria from causing further breakouts. The same hack can also be used to make your shampoo lather much better and thoroughly cleanse your scalp, although you must follow up with a conditioner.</string>
+    <string name="n7">Tip: A pinch of baking soda on your toothpaste and toothbrush can help clean and whiten teeth. Just use this hack once in a week or less.</string>
+    <string name="n8">3. Coconut Oil Massage</string>
+    <string name="n9">Massaging your body from head to toe with coconut oil will do you a lot of good. You are already aware of its benefits for hair. Your skin will be saved from dryness if you massage it with coconut oil regularly before a bath. This will also help with muscle and joint pain.</string>
+    <string name="n10">Tip: Apply coconut oil to the soles of your feet before you go to bed, to get a relaxing slumber.</string>
+    <string name="n11">4. Sea Salt Hair Scrub</string>
+    <string name="n12">If you are suffering from dandruff that won’t go away, a natural hair scrub can work wonders in banishing this condition. Sea salt can exfoliate dandruff and flakes on your scalp while soothing it. It is also loaded with essential minerals that can be good for your scalp in moderation.Part your hair and sprinkle sea salt on the exposed scalp areas. Massage the salt into your scalp with damp fingers. Once you’ve covered all the itchy areas, proceed to wash your hair with a shampoo and conditioner. You will feel relieved instantly.</string>
+    <string name="n13">Tip: Do this immediately before a hair wash and don’t skip conditioner.</string>
+    <string name="n14">5. Tea Tree Oil Infused Moisturiser</string>
+    <string name="n15">Tea tree oil is a popular acne-fighting ingredient that many swear by. If you already have a good moisturiser that works for your skin type, but you need some extra help to treat that acne, mix some tea tree oil with it before applying it on your skin.</string>
+    <string name="n16">Tip: You could even dab tea tree oil directly on the acne lesion.</string>
+    <string name="n17">6.Coffee Face Pack</string>
+    <string name="n18">Coffee powder is an ingredient that does everything from exfoliating to brightening and tightening your skin. A face pack made from coffee powder will help prevent breakouts, fade dark spots, and nourish skin for a uniform glow. Combine one tablespoon coffee powder, half teaspoon turmeric powder and one tablespoon yoghurt in a bowl to form a paste. Apply this to your face and rinse it off after 30 minutes.</string>
+    <string name="n19">Tip: While rinsing it, rub in circular motions to unclog pores.</string>
+    <string name="n20">7. Beetroot Cheek Scrub</string>
+    <string name="n21">If you love wearing blush but are trying to avoid using makeup this season, this tip is for you. For naturally blushed cheeks, use a beetroot scrub to stimulate blood circulation and add a rosy tint. Simply grate half a beetroot and mix it with a tablespoon of sugar. Use this scrub on your cheeks by scrubbing in circular motions for about a minute. Let it absorb into your skin for another minute. Rinse with water and enjoy rosy cheeks.</string>
+    <string name="n22">Tip: Do this after cleansing your face with a face wash. Dab on moisturiser after it’s done.</string>
+    <string name="n23">8. Chia Seed Gel Face Mask</string>
+    <string name="n24">Chia seeds are packed antioxidants and are a good source of omega-3 fatty acids. These are extremely beneficial for your skin, and you can reap great anti-ageing benefits if you create DIY face packs with this ingredient. Chia seed face packs will help soothe inflammation, hydrate skin, clear acne, and reduce signs of ageing.</string>
+    <string name="n25">Tip: Use this mask once a week for healthy skin.</string>
+    <string name="n26">9. Shea Butter Balm For Eczema</string>
+    <string name="n27">Eczema is another word for skin inflammation. If you are experiencing skin inflammation from wearing safety masks you will notice patches of your skin are inflamed with dryness, itchiness, roughness and bumps. This shea butter balm can help soothe it instantly. Add five tablespoons of organic coconut oil, two tablespoons of almond oil, three tablespoons of shea butter, and two tablespoons beeswax to a glass bowl and microwave it so that all these are melted.</string>
+    <string name="n28">Tip: This balm has a shelf life of a year. Store it in a cool dry place.</string>
+    <string name="n29">10. ACV Toner</string>
+    <string name="n30">If your skin\’s pH is imbalanced due to the undecided weather, try apple cider vinegar as a toner to keep it in check. ACV will balance out your skin’s pH effectively while clearing acne-causing bacteria. Mix three tablespoons ACV with a cup of water and store it in a spray bottle or regular bottle. Use it on cleansed skin.</string>
+    <string name="n31">Tip: Add 10 drops of lavender or tea tree essential oil to this toner for additional benefits.</string>
+
+
+    <string name="i1">10 Baby Care Tips For Every New Mum</string>
+    <string name="i2">With a child, a mother is also born who understands nothing, but that baby care is crucial. So, if you are new mother and are panicking about how to take care of your newborn baby, we may help you with baby care tips. Here are the simple ways to make your life easy.</string>
+    <string name="i3">Your baby\'s arrival marks special joy in your life and opens up a whole new world for you. But at times taking care of a newborn can be bit overwhelming, especially for first time mothers. But worry not, follow our baby care tips to sail smoothly through the initial phase and then become a pro in parenting. Here\'s what you need to do:</string>
+    <string name="i4">1. Ensure self-hygiene:</string>
+    <string name="i5">Make sure you always wash your hands or sanitize them and wear fresh clean clothes before you pick up your baby to avoid infection and other induced allergies.</string>
+    <string name="i6">2. Hold your baby right:</string>
+    <string name="i7">When you hold your baby, her head should rest on the crook of your arm with your hand supporting the spine of your newborn. Use your other hand to feed, pat your baby\'s cheeks, or just keep it over the chest or tummy gently.</string>
+    <string name="i8">3. Don\'t shake your baby vigorously:</string>
+    <string name="i9">Did you know that shaking your baby can also lead to brain injury? Whether you are trying to put her to sleep or just comforting her, shaking her is not going to help you achieve the goal. Instead just rock her gently from side to side and sing a lullaby.</string>
+    <string name="i10">4. Don\'t be rough:</string>
+    <string name="i11">Remember your newborn is not ready for a tough play. So all that throwing in the air, jiggling the baby on your knees isn\'t advisable.</string>
+    <string name="i12">5. Give skin-to-skin contact:</string>
+    <string name="i13">Know that your baby needs to sink in with the experience of the transition from womb to the world. To make that easier give her enough skin-to-skin contact, this will help her feel your warmth and be closer to the mother\'s heart too. Your heart beat was the only thing she heard when in the womb, so holding your baby close to your heart while giving enough skin-to-skin contact can make her feel more secure and relax her senses. Even dads can do the same while practicing kangaroo care.</string>
+    <string name="i14">6. Talk to your baby often:</string>
+    <string name="i15">Talking to your newborn has a host of hidden benefits. One of them is that it helps in baby brain development and helps your baby pick up words faster. Want to know more, it also helps to bond better with your baby. This simple act can help you fight baby blues too.</string>
+    <string name="i16">7.Check the diapers:</string>
+    <string name="i17">Do this often. Check on the diapers every four hours or so. A healthy newborn would be urinating very often. Keeping your baby on with a soiled diaper can lead to diaper rashes.</string>
+    <string name="i18">8. Feed on demand:</string>
+    <string name="i19">The only two things that your baby would need during her early days are proper feeds and enough sleep. Now sleeping will be tricky because even though your newborn is supposed to sleep for 16 to 20 hours a day, she might not do all that sleeping at a stretch. Your baby will call out for a feed probably every two hours or less. Be ready to offer a feed on demand.If you choose to breastfeed your baby hold your baby right and ensure that she has enough of areola inside her mouth to avoid intake of air.</string>
+    <string name="i20">9. Sterilize bottles and breast pumps regularly:</string>
+    <string name="i21">Wash and sterilize feeding bottles at least twice a day. Do not forget to do the same with the parts of your breast pump that can be sterilized. Do not forget the teats. If possible wash them thoroughly before every feed. </string>
+    <string name="i22">10. Bathe your baby right:</string>
+    <string name="i23">Once the umbilical cord falls and the area heals your baby will graduate from sponge bath to normal baths. Be careful while handling your baby while bathing.</string>
+    <string name="title_activity_pgt5">pgt5</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <string name="pt1">Foods to eat</string>
+    <string name="pt2">1. Water</string>
+    <string name="pt3">Drinking a lot of water is always important, and this is especially true during your period. Staying hydrated can reduce your chances of getting dehydration headaches, a common symptom of menstruation.
+
+Drinking plenty of water can also stop you from retaining water and bloating.</string>
+    <string name="pt4">2. Fruit</string>
+    <string name="pt5">Water-rich fruits, such as watermelon and cucumber, are great for staying hydrated. Sweet fruits can help you curb your sugar cravings without eating a lot of refined sugars, which can cause your glucose levels to spike and then crash.</string>
+    <string name="pt6">3. Leafy green vegetables</string>
+    <string name="pt7">It’s common to experience a dip in your iron levels during your period, particularly if your menstrual flow is heavy. This can lead to fatigue, bodily pain, and dizziness.
+
+Leafy green vegetables such as kale and spinach can boost your iron levels. Spinach is also rich in magnesium.</string>
+    <string name="pt8">4. Ginger</string>
+    <string name="pt9">A warm mug of ginger tea can improve certain symptoms of menstruation. Ginger has anti-inflammatory effects, which can soothe achy muscles.
+
+Ginger may also reduce nausea. Few studies confirm this, but a 2018 study found that ginger effectively reduced nausea and vomiting during the first trimester of pregnancy. Since it’s safe and relatively cheap, it’s worth trying.
+
+Don’t consume too much ginger, though: Consuming more than 4 grams in one day could cause heartburn and stomachaches.</string>
+
+    <string name="pt10">5. Chicken</string>
+    <string name="pt11">Chicken is another iron- and protein-rich food you can add to your diet. Eating protein is essential for your overall health, and it can help you stay full and sated during your period, curbing cravings.</string>
+    <string name="pt12">6. Fish</string>
+    <string name="pt13">Rich in iron, protein, and omega-3 fatty acids, fish is a nutritious addition to your diet. Consuming iron will counteract the dip in iron levels that you might experience while menstruating.
+
+Omega-3s can reduce the intensity of period pain, according to a 2012 study. Subjects who took omega-3 supplements found that their menstrual pain decreased so much that they could reduce the amount of ibuprofen they took.
+
+A 2014 study showed that omega-3s can also reduce depression. For those who experience mood swings and depression around menstruation, omega-3s may be helpful.</string>
+    <string name="pt14">7. Turmeric</string>
+    <string name="pt15">Turmeric is known as an anti-inflammatory spice, and curcumin is its main active ingredient. A 2015 study looked at the effects of curcumin on PMS symptoms and found that people who took curcumin had less severe symptoms.</string>
+    <string name="pt16">8. Dark chocolate</string>
+    <string name="pt17">A tasty and beneficial snack, dark chocolate is rich in iron and magnesium. A 100-gram bar of 70 to 85 percent dark chocolate contains 67 percent of the recommended daily intake (RDI) for iron and 58 percent of the RDI for magnesium.
+
+A 2010 studyTrusted Source found that magnesium reduced the severity of PMS symptoms. According to a 2015 studyTrusted Source, people with magnesium deficiencies were more likely to have severe PMS symptoms.</string>
+
+    <string name="pt18">9. Nuts</string>
+    <string name="pt19">Most nuts are rich in omega-3 fatty acids, and they\’re a great source of protein. They also contain magnesium and various vitamins. If you don\’t want to eat nuts on their own, try nut butters or nut-based milks or add these ingredients to smoothies.</string>
+    <string name="pt20">10. Flaxseed oil</string>
+    <string name="pt21">Every 15 milliliters of flaxseed oil contains 7,195 milligrams of omega-3 fatty acids. For perspective, the Office of Dietary Supplements says you need only about 1,100 to 1,600 milligramsTrusted Source of omega-3s per day.
+
+A small study found that consuming flaxseed oil soothed constipation, a common symptom of menstruation. However, more research is needed to show how flaxseed oil can improve digestive health.</string>
+
+    <string-array name="Month">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+</resources>

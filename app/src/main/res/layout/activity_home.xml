@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".home">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/profile"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_gravity="right"
+            android:scaleType="fitXY"
+            android:background="@color/white"
+            app:srcCompat="@drawable/profile" />
+
+        <TextView
+            android:id="@+id/textView41"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="cursive"
+            android:text="@string/fem"
+            android:textColor="#F30000"
+            android:textSize="60sp"
+            android:textStyle="bold"/>
+
+        <ImageView
+            android:id="@+id/home"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:scaleType="fitXY"
+            android:paddingTop="10dp"
+            app:srcCompat="@drawable/home" />
+
+        <GridLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="left">
+
+            <ImageButton
+                android:id="@+id/imgbpt"
+                android:layout_width="114dp"
+                android:layout_height="94dp"
+                android:layout_row="0"
+                android:layout_column="1"
+                android:layout_marginStart="50dp"
+                android:layout_marginTop="64dp"
+                android:background="@color/white"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/pt" />
+
+
+            <ImageButton
+                android:id="@+id/imgbpg"
+                android:layout_width="114dp"
+                android:layout_height="94dp"
+                android:layout_row="0"
+                android:layout_column="2"
+                android:layout_marginStart="50dp"
+                android:layout_marginTop="64dp"
+                android:background="@color/white"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/pg" />
+
+
+            <ImageButton
+                android:id="@+id/imgbic"
+                android:layout_width="114dp"
+                android:layout_height="94dp"
+                android:layout_row="1"
+                android:layout_column="1"
+                android:layout_marginStart="50dp"
+                android:layout_marginTop="64dp"
+                android:background="@color/white"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/ic" />
+
+
+            <ImageButton
+                android:id="@+id/imgbbf"
+                android:layout_width="114dp"
+                android:layout_height="89dp"
+                android:layout_row="1"
+                android:layout_column="2"
+                android:layout_marginStart="50dp"
+                android:layout_marginTop="64dp"
+                android:background="@color/white"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/bf" />
+
+        </GridLayout>
+
+        <Button
+            android:id="@+id/txtlogout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:fontFamily="sans-serif-black"
+            android:text="@string/logout"
+            android:textColor="#041EAC"
+            android:layout_marginTop="40dp"
+            android:layout_gravity="center"
+            android:textSize="20sp"/>
+    </LinearLayout>
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

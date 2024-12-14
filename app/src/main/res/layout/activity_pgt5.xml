@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".pgt4">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolBar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="#BF0404"
+            android:textAlignment="textEnd"
+            android:gravity="end"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+            app:title="Pregnancy Tracker"
+            app:titleTextColor="@color/white">
+            <ImageButton
+                android:id="@+id/home"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@drawable/baseline_home_24"
+                android:layout_gravity="end"
+                />
+        </androidx.appcompat.widget.Toolbar>
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/b1"
+                android:layout_width="78dp"
+                android:layout_height="77dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="45dp"
+                android:background="@color/white"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/baby" />
+
+            <ImageButton
+                android:id="@+id/b2"
+                android:layout_width="78dp"
+                android:layout_height="77dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="45dp"
+                android:background="@color/white"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/mom" />
+
+            <ImageButton
+                android:id="@+id/b3"
+                android:layout_width="78dp"
+                android:layout_height="77dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="45dp"
+                android:background="@color/white"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/food" />
+
+            <ImageButton
+                android:id="@+id/b4"
+                android:layout_width="78dp"
+                android:layout_height="77dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="51dp"
+                android:background="#FFE4ED"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/advice" />
+
+        </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/image1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:paddingTop="10dp"
+            android:fontFamily="@font/aclonica"
+            android:text="Advice"
+            android:textColor="#D10303"
+            android:textStyle="bold"
+            android:textSize="24dp"
+            android:layout_marginStart="10dp"/>
+
+        <TextView
+            android:id="@+id/text9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:layout_marginTop="20dp"
+            android:fontFamily="sans-serif"
+            android:textColor="@color/black"
+            android:textSize="20sp" />
+    </LinearLayout>
+    </ScrollView>
+    </LinearLayout>
+
+</androidx.appcompat.widget.LinearLayoutCompat>

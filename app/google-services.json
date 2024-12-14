@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844550277506",
+    "project_id": "feminae-project",
+    "storage_bucket": "feminae-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844550277506:android:43adbdaf3e46834047a79b",
+        "android_client_info": {
+          "package_name": "com.example.feminae_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844550277506-mnnfk7bick3ab8bpo8fn6mkp8jc0s7bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDghtvvEeccK9i3lcG_Cp9cT9YrZ_z6d5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844550277506-mnnfk7bick3ab8bpo8fn6mkp8jc0s7bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

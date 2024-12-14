@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Feminae_Project"
+        tools:targetApi="31">
+        <activity
+            android:name=".ic8"
+            android:exported="false" />
+        <activity
+            android:name=".pgt7"
+            android:exported="false" />
+        <activity
+            android:name=".pt8"
+            android:exported="false" />
+        <activity
+            android:name=".pt7"
+            android:exported="false" />
+        <activity
+            android:name=".pgt6"
+            android:exported="false" />
+        <activity
+            android:name=".pt5"
+            android:exported="false" />
+        <activity
+            android:name=".pt4"
+            android:exported="false" />
+        <activity
+            android:name=".pt3"
+            android:exported="false" />
+        <activity
+            android:name=".pt2"
+            android:exported="false" />
+        <activity
+            android:name=".pgt5"
+            android:exported="false"
+            android:label="@string/title_activity_pgt5"
+            android:theme="@style/Theme.Feminae_Project.NoActionBar" />
+        <activity
+            android:name=".pgt4"
+            android:exported="false" />
+        <activity
+            android:name=".pgt3"
+            android:exported="false" />
+        <activity
+            android:name=".pgt2"
+            android:exported="false" />
+        <activity
+            android:name=".ic7"
+            android:exported="false" />
+        <activity
+            android:name=".ic6"
+            android:exported="false" />
+        <activity
+            android:name=".ic5"
+            android:exported="false" />
+        <activity
+            android:name=".ic4"
+            android:exported="false" />
+        <activity
+            android:name=".ic3"
+            android:exported="false" />
+        <activity
+            android:name=".ic2"
+            android:exported="false" />
+        <activity
+            android:name=".bf19"
+            android:exported="false" />
+        <activity
+            android:name=".bf18"
+            android:exported="false" />
+        <activity
+            android:name=".bf17"
+            android:exported="false" />
+        <activity
+            android:name=".myprofile"
+            android:exported="false" />
+        <activity
+            android:name=".bf16"
+            android:exported="false" />
+        <activity
+            android:name=".bf15"
+            android:exported="false" />
+        <activity
+            android:name=".bf14"
+            android:exported="false" />
+        <activity
+            android:name=".bf13"
+            android:exported="false" />
+        <activity
+            android:name=".bf12"
+            android:exported="false" />
+        <activity
+            android:name=".bf11"
+            android:exported="false" />
+        <activity
+            android:name=".bf10"
+            android:exported="false" />
+        <activity
+            android:name=".bf9"
+            android:exported="false" />
+        <activity
+            android:name=".bf8"
+            android:exported="false" />
+        <activity
+            android:name=".bf7"
+            android:exported="false" />
+        <activity
+            android:name=".bf6"
+            android:exported="false" />
+        <activity
+            android:name=".bf5"
+            android:exported="false" />
+        <activity
+            android:name=".bf4"
+            android:exported="false" />
+        <activity
+            android:name=".bf3"
+            android:exported="false" />
+        <activity
+            android:name=".bf2"
+            android:exported="false" />
+        <activity
+            android:name=".bf1"
+            android:exported="false" />
+        <activity
+            android:name=".ic1"
+            android:exported="false" />
+        <activity
+            android:name=".pgt1"
+            android:exported="false" />
+        <activity
+            android:name=".pt1"
+            android:exported="false" />
+        <activity
+            android:name=".bf0"
+            android:exported="false" />
+        <activity
+            android:name=".ic0"
+            android:exported="false" />
+        <activity
+            android:name=".pgt0"
+            android:exported="false" />
+        <activity
+            android:name=".pt0"
+            android:exported="false" />
+        <activity
+            android:name=".forgotpassword"
+            android:exported="false" />
+        <activity
+            android:name=".home"
+            android:exported="false" />
+        <activity
+            android:name=".register"
+            android:exported="false" />
+        <activity
+            android:name=".login"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
